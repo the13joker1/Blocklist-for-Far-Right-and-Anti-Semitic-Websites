@@ -16,7 +16,7 @@ This repository contains a blocklist of domains associated with far-right, extre
 1. Install [uBlock Origin](https://github.com/gorhill/uBlock).
 2. Open the uBlock Origin dashboard.
 3. Go to the "My Filters" tab.
-4. Copy the contents of the `ublock.txt` file from this repository (or copy the list below).
+4. Copy the contents of the `uBlock.txt` file from this repository (or copy the list below).
 5. Paste the list into the "My Filters" section.
 6. Click "Apply changes".
 
