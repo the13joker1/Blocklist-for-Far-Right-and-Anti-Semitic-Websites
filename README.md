@@ -1,6 +1,6 @@
 # Anti-Extremism and Anti-Anti-Semitism Blocklist
 
-This repository contains a blocklist of domains associated with far-right, extremist, and anti-Semitic content. The list can be used with popular content blockers like [uBlock Origin](https://github.com/gorhill/uBlock) to block websites that promote harmful ideologies.
+This repository contains a blocklist of domains associated with far-right, extremist, and anti-Semitic content. The list can be used with popular content blockers like [uBlock Origin](https://github.com/gorhill/uBlock) or [LeechBlock NG](https://addons.mozilla.org/de/firefox/addon/leechblock-ng/) to block websites that promote harmful ideologies.
 
 ## Features
 
