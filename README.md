@@ -16,9 +16,19 @@ This repository contains a blocklist of domains associated with far-right, extre
 1. Install [uBlock Origin](https://github.com/gorhill/uBlock).
 2. Open the uBlock Origin dashboard.
 3. Go to the "My Filters" tab.
-4. Copy the contents of the `uBlock.txt` file from this repository (or copy the list below).
+4. Copy the contents of the `**uBlock.txt` file from this repository.
 5. Paste the list into the "My Filters" section.
 6. Click "Apply changes".
+
+### For LeechBlock NG
+
+1. Install [LeechBlock NG](https://addons.mozilla.org/de/firefox/addon/leechblock-ng/).
+ 
+   `Can't see the following 3 images? Look in the `Images` Folder.`
+   
+<img width="1464" alt="LeechBlock StepByStep1" src="https://github.com/user-attachments/assets/2107a8b1-bcd8-488f-b93a-6b504a246b38" />
+<img width="1324" alt="LeechBlockStepByStep2" src="https://github.com/user-attachments/assets/c4f9bee2-bc89-43ef-a77d-055a7dc922f2" />
+<img width="851" alt="LeechBlockStepByStep3" src="https://github.com/user-attachments/assets/95e9831a-7a71-4fcb-beb8-74627aa48933" />
 
 
 
