@@ -34,7 +34,7 @@ This repository contains a blocklist of domains associated with far-right, extre
 
 ## Usage
 
-You can also manually add more domains to the list if you encounter additional far-right or anti-Semitic sites you would like to block. Simply follow the format shown above.
+You can also manually add more domains to the list if you encounter additional far-right or anti-Semitic sites you would like to block. Simply follow the format shown in the Lists.
 
 ## Contributing
 
