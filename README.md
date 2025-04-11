@@ -7,7 +7,7 @@ This repository contains a blocklist of domains associated with far-right, extre
 - Blocks a wide range of far-right, extremist, and anti-Semitic domains.
 - Includes wildcards for subdomains to ensure comprehensive blocking.
 - **Axel Springer** domains are also included due to concerns about right-wing and potentially harmful content.
-- Compatible with uBlock Origin and other content blockers.
+- Compatible with uBlock Origin, LeechBlock Ng and other content blockers.
 
 ## Installation
 
