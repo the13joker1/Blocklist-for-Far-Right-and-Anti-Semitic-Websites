@@ -1,0 +1,13 @@
+# Ignore Everything
+*
+
+# Exception for the .gitignore file itself
+!.gitignore
+
+# Exception for README.md
+!README.md
+
+# Exception for the block list files
+!BlockList.txt
+!LeechBlock.txt
+!uBlock.txt
